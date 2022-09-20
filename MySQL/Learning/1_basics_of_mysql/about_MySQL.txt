@@ -1,0 +1,7 @@
+##################################################
+         Some points of MySQL
+##################################################
+* MySQL is a relational database. A relational database is organised in two dimentional tables comprised of rows and columns. A relational databases has one table or many tables
+* A table contains row and columns
+* Sometimes a row called record
+* column called as filed
