@@ -23,3 +23,7 @@ SELECT count(*) FROM country;
 SELECT * FROM country LIMIT 10;
 -- Start from 5th row and select 5 rows after that
 SELECT * FROM country LIMIT 5, 5;
+-- Filtering rows by using Where
+SELECT * FROM country WHERE Population > 1000000000 AND Continent = "Asia";
+-- Fetching all rows which are ending with republic
+SELECT * FROM country WHERE GovernmentForm LIKE "%Republic";
