@@ -1,0 +1,16 @@
+MySQL supports below decimal data type
+
+### INTEGER TYPES
+* TINYINT
+* SMALLINT
+* MEDIUMINT
+* INTEGER
+* BIGINT
+
+### DECIMAL TYPES
+* DECIMAL(precision, scale)
+* NUMERIC(precision, scale)
+
+### FLOTING POINT TYPES
+* FLOAT
+* DOUBLE

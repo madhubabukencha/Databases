@@ -5,3 +5,5 @@
 * A table contains row and columns
 * Sometimes a row called record
 * column called as filed
+* Maximum 4096 columns per table
+* Maximum 65535 bytes per row
