@@ -20,8 +20,11 @@ CREATE TABLE IF NOT EXISTS students (
     age INT,
     gender VARCHAR(10) NOT NULL
 )  ENGINE = INNODB;
+
 -- To get description about the table
+-- describe student
 DESC students;
+
 -- To adding new column to table by altering table
 ALTER TABLE students add address VARCHAR(200);
 DESC students;
